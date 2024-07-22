@@ -1,0 +1,53 @@
+> 【题目描述】
+用手机发短信，一条短信资费为0.1元，但限定一条短信的内容在70个字以内(包括70个字）。如果你一次所发送的短信超过了70个字，则会按照每70个字一条短信的限制把它分割成多条短信发送。假设已经知道你当月所发送的短信的字数，试统计一下你当月短信的总资费。
+【输入】
+第一行是整数n，表示当月发送短信的总次数，接着n行每行一个整数，表示每次短信的字数。
+【输出】
+输出一行，当月短信总资费，单位为元，精确到小数点后1位。
+【输入样例】
+10
+39
+49
+42
+61
+44
+147
+42
+72
+35
+46
+【输出样例】
+1.3
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int strip(int letter){
+	int n=0;
+	if(letter>70){
+		for(int i=0;i<letter/70;i++) n++;
+		if(letter%70!=0) n++;
+	}else n++;
+	return n;
+}
+int main(){
+	int n;
+	double money=0.0;
+	cin>>n;
+	int a[n];
+	for(int i=0;i<n;i++){
+		cin>>a[i];
+		money+=strip(a[i])*0.1;
+	}
+	cout<<money<<endl;
+	return 0;
+} 
+```
+压缩版：
+
+```cpp
+#include <iostream>
+using namespace std;int strip(int letter){int n=0;if(letter>70){for(int i=0;i<letter/70;i++) n++;if(letter%70!=0) n++;}else n++;return n;}int main(){int n;double money=0.0;cin>>n;int a[n];for(int i=0;i<n;i++){cin>>a[i];money+=strip(a[i])*0.1;}cout<<money<<endl;return 0;} 
+```
+

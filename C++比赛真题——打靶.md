@@ -1,0 +1,18 @@
+![在这里插入图片描述](https://pic.2ge.org/cdn/?url=https://img-blog.csdnimg.cn/5f64094f266d440cb7a351a763adf9eb.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5r2Y6YGT54a5,size_20,color_FFFFFF,t_70,g_se,x_16)
+
+```cpp
+//Author:PanDaoxi
+#include <iostream>
+using namespace std;
+bool prime(int x){
+	for(int i=2;i*i<=x;i++) if(x%i==0) return 0;
+}
+int main(){
+	int sum=0,n;
+	cin>>n;
+	for(int i=2;i<=n;i++) if(prime(i)) sum++;
+	cout<<sum<<endl;
+	return 0;
+} 
+```
+

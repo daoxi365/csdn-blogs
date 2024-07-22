@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>【PanDaoxi】CSDN Blog</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Description">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://daoxi365.github.io/tech-blog/favicon.ico">
+	<link href="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/themes/dolphin.min.css" rel="stylesheet">
+	<link href="https://cdn.bootcdn.net/ajax/libs/prism/9000.0.1/themes/prism.min.css" rel="stylesheet">
+	<!--
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+	-->
+	<link href="https://fonts.font.im/css2?family=Noto+Serif+SC&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+	<style>html,body{font-family:"Ubuntu","Noto Serif SC";} code,pre{font-family:"Ubuntu Mono"}</style>
+</head>
+
+<body class="line-numbers">
+    <div id="app">Loading</div>
+    <script>
+        window.$docsify = {
+            name: 'PanDaoxi',
+            loadSidebar: true,
+            sidebarDisplayLevel: 1,
+            alias: {
+            '/.*/_sidebar.md': '/_sidebar.md'
+            },
+            loadNavbar: true,
+            coverpage: true,
+            maxLevel: 5,
+            subMaxLevel: 3,
+            mergeNavbar: true,
+            auto2top: true,
+            latex: {
+            inlineMath   : [['$', '$'], ['\\(', '\\)']],
+            displayMath  : [['$$', '$$']],
+            customOptions: {}
+          },
+            pagination: {
+            previousText: '上一章节',
+            nextText: '下一章节',
+           },
+            search: {
+                paths: 'auto',
+                placeholder: '搜索',    
+                placeholder: {
+                    '/zh-cn/': '搜索',
+                    '/': 'Type to search'
+                },
+                noData: '找不到结果',
+                depth: 4,
+                hideOtherSidebarContent: false,
+                namespace: 'Docsify-Guide',
+            },
+
+            count:{
+            countable: true,
+            position: 'top',
+            margin: '10px',
+            float: 'right',
+            fontsize:'0.9em',
+            color:'rgb(90,90,90)',
+            language:'chinese',
+            isExpected: true
+        }
+        }
+    </script>
+
+    <script src="https://cdn.bootcdn.net/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.min.js"></script>
+    <script src="https://unpkg.com/docsify-latex@0.5.2/dist/docsify-latex.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/docsify.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/plugins/emoji.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/plugins/zoom-image.min.js"></script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/plugins/search.min.js"></script>
+
+	<script>
+		Prism.languages.cpp = {
+			keyword: /\b(alignas|alignof|asm|auto|bool|break|case|catch|char|char16_t|char32_t|class|compl|const|constexpr|const_cast|continue|decltype|default|delete|delete\[\]|do|double|dynamic_cast|else|enum|explicit|export|extern|float|for|friend|goto|if|inline|int|long|mutable|namespace|new|new\[\]|noexcept|nullptr|operator|private|protected|public|register|reinterpret_cast|return|short|signed|sizeof|static|static_assert|static_cast|struct|switch|template|this|thread_local|throw|try|typedef|typeid|typename|union|unsigned|using|virtual|void|volatile|wchar_t|while)\b/,
+			"boolean": /\b(true|false)\b/,
+			operator: /[-+]{1,2}|!=?|<{1,2}=?|>{1,2}=?|\->|:{1,2}|={1,2}|\^|~|%|&{1,2}|\|?\||\?|\*|\/|\b(and|and_eq|bitand|bitor|not|not_eq|or|or_eq|xor|xor_eq)\b/,
+			punctuation: /[{}[\];(),.:]/,
+			string: /"""[\s\S]+?"""|'''[\s\S]+?'''|("|')(\\?.)*?\1/,
+		}
+	</script>
+	<script src="https://cdn.bootcdn.net/ajax/libs/prism/9000.0.1/components/prism-bash.min.js"></script>
+	<script src="https://cdn.bootcdn.net/ajax/libs/prism/9000.0.1/components/prism-python.min.js"></script>
+  <!--<script src="https://unpkg.com/docsify-pagination@2.10.1/src/index.js"></script>-->
+  <script src="https://cdn.bootcdn.net/ajax/libs/docsify-copy-code/3.0.0/docsify-copy-code.min.js"></script>
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+  
+
+</body>
+</html>
