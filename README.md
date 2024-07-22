@@ -26,7 +26,7 @@
     - 【用】`Daoxi365` 网站（[`https://daoxi365.github.io/`](https://daoxi365.github.io/)）
     - 【用】`Tech Blog` 技术博客（[`https://daoxi365.github.io/tech-blog/`](https://daoxi365.github.io/tech-blog)）
     - 【用】`About` 个人简历（[`https://pandaoxi.github.io/`](https://pandaoxi.github.io/)）
-    - 【封】`CSDN-BLOG` 原 CSDN 文章（[`https://daoxi365.github.io/csdn-blog/`](https://daoxi365.github.io/csdn-blog/)）
+    - 【封】`CSDN-BLOG` 原 CSDN 文章（[`https://daoxi365.github.io/csdn-blogs/`](https://daoxi365.github.io/csdn-blogs/)）
 	- 【用】`software` 微型项目（[`https://daoxi365.github.io/software/`](https://daoxi365.github.io/software/)）
 
 2. 其他的，非 `Daoxi365` 系列的：
