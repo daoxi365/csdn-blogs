@@ -1,13 +1,8 @@
 # PanDaoxi 的 CSDN 文章合集
 
-我曾经一直有在 CSDN 写博客的习惯，并维持了将近三年，创作了共 $420$ 篇文章。\
-由于学业压力，我退出了 CSDN，后来将这些文章全部转出，存储到了我的[技术博客](https://daoxi365.github.io/tech-blog/)上。\
-后来又更新技术博客，于是又将旧网址安置在这里，后期不打算继续在此处更新，仅做学习笔记使用。
-
----
-
 # 关于
 
+我的网站起始于 $2020$ 年，后期构成体系。
 此网站是 `PanDaoxi's Tech Blog` 的分站，是 `Daoxi365` 网站分站的分站。
 `Daoxi365` 创立于 $2022$ 年 $8$ 月，由 PanDaoxi 开发并运营至今。
 
@@ -43,4 +38,3 @@
 Copyright 2020-2025 by PanDaoxi.
 All rights reserved.
 ```
-
