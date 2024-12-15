@@ -1,6 +1,4 @@
-# PanDaoxi 的 CSDN 文章合集
-
-# 关于
+# 关于此合集
 
 我的网站起始于 $2020$ 年，后期构成体系。
 此网站是 `PanDaoxi's Tech Blog` 的分站，是 `Daoxi365` 网站分站的分站。
