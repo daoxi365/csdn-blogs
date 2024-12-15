@@ -23,11 +23,13 @@
     - 【旧】`Daoxi365` 网站（[`https://pandaoxi.gitee.io/`](https://pandaoxi.gitee.io/)）
     - 【旧】`Tech Blog` 技术博客（[`https://pandaoxi.gitee.io/tech-blog/`](https://pandaoxi.gitee.io/tech-blog)）
     - 【并】`Software Blog` 软件博客（[`https://pandaoxi.gitee.io/software/`](https://pandaoxi.gitee.io/software)）
-    - 【用】`Daoxi365` 网站（[`https://daoxi365.github.io/`](https://daoxi365.github.io/)）
-    - 【用】`Tech Blog` 技术博客（[`https://daoxi365.github.io/tech-blog/`](https://daoxi365.github.io/tech-blog)）
-    - 【用】`About` 个人简历（[`https://pandaoxi.github.io/`](https://pandaoxi.github.io/)）
+    - 【封】`Daoxi365` 网站（[`https://daoxi365.github.io/`](https://daoxi365.github.io/)）
+    - 【封】`Tech Blog` 技术博客（[`https://daoxi365.github.io/tech-blog/`](https://daoxi365.github.io/tech-blog)）
+    - 【封】`About` 个人简历（[`https://pandaoxi.github.io/`](https://pandaoxi.github.io/)）
+    - 【用】`About` 个人简历（[`https://daoxi365.github.io/pandaoxi.github.io`](https://daoxi365.github.io/pandaoxi.github.io/)）
     - 【封】`CSDN-BLOG` 原 CSDN 文章（[`https://daoxi365.github.io/csdn-blogs/`](https://daoxi365.github.io/csdn-blogs/)）
-	- 【用】`software` 微型项目（[`https://daoxi365.github.io/software/`](https://daoxi365.github.io/software/)）
+    - 【用】`software` 微型项目（[`https://daoxi365.github.io/software/`](https://daoxi365.github.io/software/)）
+    - 【用】综合站（[`https://daoxi365.pages.dev/`](https://daoxi365.pages.dev/) 和 [`https://daoxi365.bloger.us.kg/`](https://daoxi365.bloger.us.kg)）
 
 2. 其他的，非 `Daoxi365` 系列的：
     - 【封】`CSDN` 纪念（链接尚存 [`https://pandaoxi.blog.csdn.net/`](https://pandaoxi.blog.csdn.net/)）
@@ -35,10 +37,10 @@
     - 【封】51CTO 纪念（链接尚存 [`https://blog.51cto.com/pandaoxi`](https://blog.51cto.com/pandaoxi)）
     - 【用】bilibili [`https://space.bilibili.com/1016727711`](https://space.bilibili.com/1016727711)
 
-如果您有任何关于网站的问题，欢迎联系 `2060642520@qq.com`。
+如果您有任何关于网站的问题，欢迎联系 `obsizu@163.com`。
 
 ```
-Copyright 2020-2024 by PanDaoxi.
+Copyright 2020-2025 by PanDaoxi.
 All rights reserved.
 ```
 
