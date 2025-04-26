@@ -22,7 +22,7 @@
     - 【用】`About` 个人简历（[`https://daoxi365.github.io/pandaoxi.github.io`](https://daoxi365.github.io/pandaoxi.github.io/)）
     - 【封】`CSDN-BLOG` 原 CSDN 文章（[`https://daoxi365.github.io/csdn-blogs/`](https://daoxi365.github.io/csdn-blogs/)）
     - 【用】`software` 微型项目（[`https://daoxi365.github.io/software/`](https://daoxi365.github.io/software/)）
-    - 【用】综合站（[`https://daoxi365.pages.dev/`](https://daoxi365.pages.dev/) 和 [`https://daoxi365.bloger.us.kg/`](https://daoxi365.bloger.us.kg)）
+    - 【用】综合站（[`https://daoxi365.top/`](https://daoxi365.top/)）
 
 2. 其他的，非 `Daoxi365` 系列的：
     - 【封】`CSDN` 纪念（链接尚存 [`https://pandaoxi.blog.csdn.net/`](https://pandaoxi.blog.csdn.net/)）
